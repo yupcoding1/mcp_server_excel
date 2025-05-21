@@ -31,7 +31,6 @@ A Python-based Model Context Protocol (MCP) server for advanced Excel file manip
 ├── run_local.sh              # Bash script to run the server
 ├── .env                      # Environment variables (e.g., EXCEL_FILES_DIR)
 ├── excel_files/              # Directory for Excel files (auto-created)
-│   └── trial.xlsx            # Example Excel file
 └── __pycache__/              # Python bytecode cache
 ```
 
